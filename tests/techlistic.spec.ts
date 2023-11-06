@@ -17,5 +17,3 @@ test("Automation Practice Form", async ({ page }) => {
   const filePath = path.join(__dirname, '../data/IMG_4757.JPG');
 //   await page.locator('.input-file')
 });
-
-//test
